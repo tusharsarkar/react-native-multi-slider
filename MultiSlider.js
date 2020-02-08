@@ -45,7 +45,6 @@ export default class MultiSlider extends React.Component {
     snapped: false,
     vertical: false,
     minMarkerOverlapDistance: 0,
-    minMarkerOverlapDistance: 0,
     leftKnobComponent: null,
     rightKnobComponent: null,
     showLabel: false
